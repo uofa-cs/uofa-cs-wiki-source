@@ -42,40 +42,20 @@ docs_dir: wiki-content
 
 nav:
   - Home: README.md
-  - Program:
-    - Program Overview: program/overview.md
-    - Degree Planning: program/degree-planning.md 
-    - First Year Guide: academics/first-year-guide.md
-  - Academics:
-    - Course Guide: academics/course-reviews.md
-    - Professor Guide: academics/professor-guide.md
-    - Elective Strategy: academics/elective-strategy.md
-    - Hidden Gems: academics/hidden-gems.md
+  - Getting Started:
+    - docs/getting-started/
+  - Courses:
+    - docs/courses/
   - Skills:
-    - What to Learn: skills/what-to-learn.md
-    - Programming Languages: skills/programming-languages.md
-    - Tools and Setup: skills/tools-and-setup.md
-    - System Design: skills/system-design.md
-    - Side Projects: skills/side-projects.md
+    - docs/skills/
   - Career:
-    - Internships: career/internships.md
-    - Resume Guide: career/resume-guide.md
-    - Interview Prep: career/interview-prep.md
-    - New Grad: career/new-grad.md
-    - Career Paths: career/career-paths.md
-    - Edmonton Tech Scene: career/edmonton-tech-scene.md
+    - docs/career/
   - Research:
-    - Getting into Research: research/getting-into-research.md
-    - Grad School: research/grad-school.md
-    - UAlberta Labs: research/ualb-labs.md
+    - docs/research/
   - Community:
-    - Clubs and Organizations: community/clubs-and-organizations.md
-    - Networking: community/networking.md
-    - Online Presence: community/online-presence.md
+    - docs/community/
   - Resources:
-    - Learning Resources: resources/learning-resources.md
-    - Scholarships: resources/scholarships.md
-    - FAQ: resources/faq.md
+    - docs/resources/
 
 plugins:
   - search:
