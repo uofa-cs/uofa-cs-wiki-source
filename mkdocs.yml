@@ -13,6 +13,8 @@ theme:
     - navigation.expand
     - navigation.path
     - navigation.top
+    - navigation.instant
+    - navigation.instant.progress
     - search.highlight
     - search.share
     - search.suggest
